@@ -1,2 +1,3 @@
 # todo-js
-HTML,CSS,JavaScriptを使ったToDoリストアプリ
+HTML、CSS、JavaScriptを押したTodoリスト
+
