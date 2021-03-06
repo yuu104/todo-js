@@ -1,3 +1,3 @@
 # todo-js
-HTML、CSS、JavaScriptを押したTodoリスト
+HTML、CSS、JavaScriptを使ったTodoリスト
 
